@@ -1,7 +1,7 @@
 {
-  "name": "com.tgl.editorcanvasview",
+  "name": "com.lalo.editorcanvasview",
   "version": "1.0.0",
-  "displayName": "TGL - Editor - CanvasView",
+  "displayName": "CanvasView",
   "description": "",
   "unity": "2020.3",
   "unityRelease": "0b5",
@@ -11,7 +11,7 @@
   "keywords": [
   ],
   "author": {
-    "name": "TGL",
+    "name": "Lalo",
     "email": "",
     "url": ""
   },
